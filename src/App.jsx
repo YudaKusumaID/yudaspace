@@ -1,5 +1,5 @@
 import React from 'react';
-import Home from './components/home';
+import Home from './components/Home';
 import Profile from './components/Profile';
 import TechStack from './components/TechStack';
 import Experience from './components/Experience';
