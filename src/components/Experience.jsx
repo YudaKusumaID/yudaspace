@@ -35,7 +35,7 @@ const Experience = () => {
             id: 3,
             title: 'Intern Frontend Developer',
             company: 'PT. Taksu Teknologi Indonesia',
-            date: '19/08/2024 - Now',
+            date: '19/08/2024 - 31/01/2025',
             details: [
                 'Fixed UI Logic.',
                 'Improved IndexedDB.',
