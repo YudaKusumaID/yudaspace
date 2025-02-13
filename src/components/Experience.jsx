@@ -19,7 +19,11 @@ const Experience = () => {
             company: 'Dinas Pendidikan Provinsi Bali',
             date: '20/03/2024 - 22/03/2024',
             details: [
-                'Implemented business needs in the field of human resource management includes employee management, applying mutations, and applying promotions using the tech stack C# .NET and SQL Server.'
+                'Architected and implemented a multi-layered desktop application for corporate employee management, featuring secure authentication, profile management, and career development workflows.',
+                'Designed and integrated a complex database system utilizing soft delete functionality and sophisticated entity relationships to manage employee hierarchies, departmental structures, and position transitions.',
+                'Built robust validation systems and user-friendly error handling mechanisms to ensure data integrity and enhance user experience.',
+                'Delivered mission-critical features including job mutation and promotion management systems with complex business rules, hierarchical reporting structures, and real-time vacancy tracking.',
+                'Worked under strict time constraints while maintaining high code quality and adhering to specific technical requirements and naming conventions.'
             ]
         },
         {
@@ -28,7 +32,11 @@ const Experience = () => {
             company: 'Dinas Pendidikan Kabupaten Gianyar',
             date: '29/01/2024 - 31/01/2024',
             details: [
-                'Implemented business needs in the field of commerce includes managing sales, inventory, users, and reporting using the tech stack C# .NET and SQL Server.'
+                'Architected and implemented a full-stack Restaurant Management System featuring secure role-based access control, real-time inventory tracking, and transaction processing. The system included specialized modules for admin logging, user management, inventory control, and point-of-sale operations.',
+                'Engineered complex database systems implementing referential integrity and transaction management across multiple interconnected tables, ensuring data consistency and reliability.',
+                'Designed and integrated comprehensive reporting systems with data visualization capabilities, including sales analytics and customizable date-range reporting.',
+                'Implemented robust input validation, error handling, and user feedback mechanisms across all system modules to ensure data integrity and enhanced user experience.',
+                'Showcased ability to work under strict time constraints while maintaining high code quality and adhering to specific technical requirements, database schemas, and UI/UX guidelines.'
             ]
         },
         {
@@ -37,9 +45,13 @@ const Experience = () => {
             company: 'PT. Taksu Teknologi Indonesia',
             date: '19/08/2024 - 31/01/2025',
             details: [
-                'Fixed UI Logic.',
-                'Improved IndexedDB.',
-                'Implemented WYSIWYG Editor.'
+                'Engineered robust data persistence systems using IndexedDB, implementing CRUD operations and optimizing data structures for improved performance.',
+                'Integrated Quill framework for advanced text editing capabilities and resolved complex formatting challenges.',
+                'Developed key features including real-time communication with MQTT broker integration, comprehensive file management system with export capabilities, and email handling systems.',
+                'Implemented state management using MobX for efficient data flow and enhanced application security through Base64 encoding/decoding functionality.',
+                'Improved application performance through systematic npm module analysis and updates.',
+                'Contributed to code quality by standardizing naming conventions, implementing error handling, and maintaining documentation.',
+                'Successfully collaborated with team members through regular code reviews and iterative development cycles.'
             ]
         }
     ];
