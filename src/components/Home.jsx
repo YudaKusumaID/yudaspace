@@ -42,7 +42,7 @@ const Home = () => {
               initial="hidden"
               animate="visible"
               transition={{ duration: 1, delay: 1 }}
-              className="mt-3 font-mono"
+              className="mt-3 font-mono text-center"
             >
               Backend and Low Level Programmer.
             </motion.p>
