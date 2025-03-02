@@ -210,7 +210,7 @@ const Projects = () => {
                 <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
                     {/* Modal Container with Fade Up Animation */}
                     <motion.div
-                        className="bg-white rounded-lg shadow-xl max-w-md w-full relative"
+                        className="bg-white rounded-lg shadow-xl max-w-md w-full relative max-h-full overflow-scroll"
                         variants={modalVariants}
                         initial="hidden"
                         animate="visible"
